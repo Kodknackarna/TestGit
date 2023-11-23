@@ -1,4 +1,4 @@
-public abstract class Truck {
+public class Truck {
 
     int weight;
     String type;
